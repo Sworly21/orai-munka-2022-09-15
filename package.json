@@ -1,0 +1,25 @@
+{
+  "name": "orai-munka-2022-09-15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/rkisztian/orai-munka-2022-09-15.git"
+  },
+  "author": "Radeczki Krisztian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkisztian/orai-munka-2022-09-15/issues"
+  },
+  "homepage": "https://github.com/rkisztian/orai-munka-2022-09-15#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "css-loader": "^6.7.1",
+    "lodash": "^4.17.21",
+    "webpack": "^5.74.0"
+  }
+}
